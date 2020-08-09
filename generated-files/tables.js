@@ -720,8 +720,8 @@ module.exports = function(){
 			{
 				"column_name": "id",
 				"column_key": "PRI",
-				"data_type": "varbinary",
-				"column_type": "varbinary(36)"
+				"data_type": "varchar",
+				"column_type": "varchar(36)"
 			}
 		],
 		"columns": [
@@ -729,8 +729,8 @@ module.exports = function(){
 				"column_name": "id",
 				"column_key": "PRI",
 				"is_nullable": "NO",
-				"data_type": "varbinary",
-				"column_type": "varbinary(36)"
+				"data_type": "varchar",
+				"column_type": "varchar(36)"
 			}
 		],
 		"foreignKeys": []
@@ -2430,8 +2430,8 @@ module.exports = function(){
 			{
 				"column_name": "taxlineID",
 				"column_key": "PRI",
-				"data_type": "varbinary",
-				"column_type": "varbinary(36)"
+				"data_type": "varchar",
+				"column_type": "varchar(36)"
 			}
 		],
 		"columns": [
@@ -2439,8 +2439,8 @@ module.exports = function(){
 				"column_name": "taxlineID",
 				"column_key": "PRI",
 				"is_nullable": "NO",
-				"data_type": "varbinary",
-				"column_type": "varbinary(36)"
+				"data_type": "varchar",
+				"column_type": "varchar(36)"
 			},
 			{
 				"column_name": "ticket",
